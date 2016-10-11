@@ -1,7 +1,8 @@
 # P11_Libraries
 Libraries used for the class advanced programming
 
-Static library  cointains the functions
+Static library  
+contains the functions:
 
 /*
 returns a integer that corresponds to the character or string received of binary numbers
@@ -34,6 +35,8 @@ param *s is a char pointer that can be a single char or an array
 size_t strlen(const char *str);
 
 dynamic library
+contains the functions:
+
 /*
 this function catches inputt by the user endlessly until the char '~' is entered or until there is no more memory
 param *cp is a pointer to the char or string in which it is saving the input
