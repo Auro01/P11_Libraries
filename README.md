@@ -4,25 +4,25 @@ Libraries used for the class advanced programming
 Static library  cointains the functions
 
 /*
-retuns a integer that corresponds to the character or string received of binary numbers
+returns a integer that corresponds to the character or string received of binary numbers
 param *s is a char pointer that can be a single char or an array
 */
 int asciiBinaryToInt(char *s);
 
 /*
-retuns a integer that corresponds to the character or string received of hexadecimal numbers
+returns a integer that corresponds to the character or string received of hexadecimal numbers
 param *s is a char pointer that can be a single char or an array
 */
 int asciiHEXToInt(char *s);
 
 /*
-printe the integer that corresponds to the character or string received of hexadecimal numbers
+print the integer that corresponds to the character or string received of hexadecimal numbers
 param *s is a char pointer that can be a single char or an array
 */
 void asciiHEXToIntCon(char *s);
 
 /*
-retuns a double that corresponds to the character or string received in ascii
+returns a double that corresponds to the character or string received in ascii
 param *s is a char pointer that can be a single char or an array
 */
 double asciiToDouble(char *s);
