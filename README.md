@@ -34,7 +34,7 @@ param *s is a char pointer that can be a single char or an array
 */
 size_t strlen(const char *str);
 
-dynamic library
+dynamic library 
 contains the functions:
 
 /*
